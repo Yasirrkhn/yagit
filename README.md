@@ -310,3 +310,7 @@ The repository has no commits yet, so there is nothing to branch from. Make a fi
 ## License
 
 MIT. See the `LICENSE` file, or change this section to match the license in your `package.json`.
+
+---
+
+**Thank you for checking out this project! Feel free to open an issue if you have any questions or suggestions.**
